@@ -6,7 +6,7 @@ ruby '2.5.1'
 gem 'rails', '~> 5.2.3'
 gem 'sqlite3'
 gem 'puma', '~> 3.11'
-
+gem 'devise'
 gem 'bootsnap', '>= 1.1.0', require: false
 
 group :development, :test do
